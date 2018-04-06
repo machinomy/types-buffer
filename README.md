@@ -1,18 +1,18 @@
-# TypeScript declaration for ethereumjs-units
+# TypeScript declaration for `buffer`
 
 # Installation
 Via npm:
 ```
-npm install --save-dev https://github.com/machinomy/types-ethereumjs-units
+npm install --save-dev @machinomy/types-buffer
 ```
 or yarn:
 ```
-yarn add https://github.com/machinomy/types-ethereumjs-units -D
+yarn add @machinomy/types-buffer -D
 ```
 Don't forget to manually include `index.d.ts` within an `include` section of your `tsconfig.json`
 ```
 "include": [
     ...
-    "./node_modules/@machinomy/types-ethereumjs-units/index.d.ts"
+    "./node_modules/@machinomy/types-buffer/index.d.ts"
 ]
 ```

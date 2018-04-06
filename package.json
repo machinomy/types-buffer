@@ -1,9 +1,9 @@
 {
   "name": "@machinomy/types-buffer",
-  "version": "0.0.1",
-  "description": "TypeScript declaration for buffer",
-  "main": "index.d.ts",
-  "types": "index.d.ts",
+  "version": "0.0.3",
+  "description": "TypeScript declaration for buffer package",
+  "main": "index.d.js",
+  "types": "index.d.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/machinomy/types-buffer.git"
@@ -13,5 +13,6 @@
   "bugs": {
     "url": "https://github.com/machinomy/types-buffer/issues"
   },
-  "homepage": "https://github.com/machinomy/types-buffer#readme"
+  "homepage": "https://github.com/machinomy/types-buffer#readme",
+  "dependencies": {}
 }
